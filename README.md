@@ -10,9 +10,7 @@ The requirements for this setup include:
 Then we need a MCC compatible tool that can compete in the LTL category of the contest. We used~:
 
 * A version of [ITS-tools](http://ddd.lip6.fr) : we use the version packaged for the MCC competition, available from here : [ITS-tools for MCC](https://github.com/yanntm/ITS-commandline)
-* A version of [Tapaal](https://www.tapaal.net/) : we build it from the source repositories with flags to enable MCC mode. See repository here : https://bazaar.launchpad.net/~verifypn-maintainers/verifypn/new-trunk/files/head:/Scripts/MCC21/competition-scripts
-
-
+* A version of [Tapaal](https://www.tapaal.net/) : we build it from the source repositories with flags to enable MCC mode. See repository here : https://bazaar.launchpad.net/~verifypn-maintainers/verifypn/new-trunk/files/head:/Scripts/MCC21/competition-scripts and https://code.launchpad.net/verifypn
 
 The files of this repository are available under the terms of Gnu Public License v3.
 
