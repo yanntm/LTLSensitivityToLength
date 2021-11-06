@@ -2,6 +2,8 @@
 
 Procedures and artefacts to reproduce experiments on "length" sensitivity of LTL formulas.
 
+This GitHub is a companion to the paper https://hal.archives-ouvertes.fr/hal-03414753 and the Zenodo artefact  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5644977.svg)](https://doi.org/10.5281/zenodo.5644977).
+
 We use both Tapaal https://www.tapaal.net/ and ITS-Tools https://lip6.github.io/ITSTools-web/ in these experiments on models taken from the model-checking competition 2021 https://mcc.lip6.fr/.
 
 ## Workflow and steps
