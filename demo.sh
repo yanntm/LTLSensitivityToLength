@@ -62,7 +62,8 @@ echo "Successfully generated results CSV for reductions/analysis of sensitivity.
 ## collect logs and compute a CSV summary file from these raw logs.
 
 echo -e "***************************\nPart 2 : Invoke ITS-tools and Tapaal\n***************************"
-read "Press enter for Step 2"
+echo "Press enter for Step 2"
+read input
 
 # restore "normal" flags to ITS-tools, we don't want to analyze sensitivity and quit anymore
 cp BenchKit_head.noslcl.sh BenchKit_head.sh
