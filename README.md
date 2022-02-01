@@ -10,7 +10,7 @@ We use both Tapaal https://www.tapaal.net/ and ITS-Tools https://lip6.github.io/
 
 Please refer to the source of the "~/demo.sh" file for more details on the different steps.
 
- * Step 0 : download the VM provided by the conference from here :  https://zenodo.org/record/5562597 Click the ".ova" to download the VM then open it and start it with VirtualBox. 
+ * Step 0 : download the neutral Ubuntu VM provided by the ETAPS/TACAS conference from here :  https://zenodo.org/record/5562597 Click the ".ova" to download the VM then open it and start it with VirtualBox. 
  * Step 1 : login to the VM with user/pass : tacas22/tacas22. You can change keyboard setting by doing : right click background, Display Setting, left in "Region & Language", "Input sources", first "Add" French/your keyboard type (it is in "other") then remove "US-en" using the garbage can icon. Right-click background->"Open in terminal" will now give us a terminal with correct keyboard.
  * Step 2 : Download and deploy artefact in the VM. Use the Zenodo link [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5644977.svg)](https://doi.org/10.5281/zenodo.5644977)  to download and place it at the root of the tacas22 home: in `/home/tacas22/`. Then deploy with `tar xvzf home.tgz`.
  * Step 3 : There are several Readme with more details but the rest is done using the `demo.sh` so simply run it. It will enact the further steps. 
