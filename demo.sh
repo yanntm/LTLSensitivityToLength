@@ -124,7 +124,7 @@ evince plots.pdf &
 
 cd ..
 
-echo "Warning these plots are based on logs collected on our cluster. They were used for the figurs of the paper"
+echo "Warning these plots are based on logs collected on our cluster. They were used for the figures of the paper"
 read input
 
 cd localLog/
