@@ -37,7 +37,7 @@ There are instructions on how to rebuild these dependencies from scratch in each
 
 Then the tools/models :
  * ~/tacas22/ITS-Tools-MCC contains the ITS-Tools distribution as well as the inputs from the MCC'21 edition. Both of these are extracted and installed following the instruction on the three github : https://github.com/yanntm/pnmcc-models-2021 (curated/annotated models from MCC 21) https://github.com/yanntm/pnmcc-tests (For the test/runner framework) https://github.com/yanntm/ITS-Tools-MCC (For ITS-tools distributed for the MCC)
- * ~/tacas22/LTLPatterns/ contains formulas collected from the literature as well as a script to analyze their sensitiivty and compute metrics on them. See the README in that folder for more details.
+ * ~/tacas22/LTLPatterns/ contains formulas collected from the literature as well as a script to analyze their sensitivity and compute metrics on them. See the README in that folder for more details.
  * ~/tacas22/Rscripts/ contains scripts to analyze the results and produce plots used in the paper. See the README in that folder for more details. It also contains the CSV produced from our cluster run (in clusterLog/) to reproduce the plots (these were built using the full logs provided in ~/tacas22/logsCluster.tgz and analyzed with the perl scripts from the ~/tacas22/ITS-Tools-MCC folder)
 
 
